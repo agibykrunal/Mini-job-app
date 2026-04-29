@@ -1,4 +1,3 @@
-/
 
 export const COMPANIES = [
   { name: "Google", logo: "G", logoBg: "#4285F4", logoColor: "#fff" },
